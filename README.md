@@ -26,8 +26,6 @@
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/cyberpunk-anime.gif" width="100">
 </p>
 
-<img align="right" alt="Batman" height="190" src="https://media.tenor.com/Jo4H5z8m3jQAAAAC/batman.gif">
-
 
 
 ## 🐍 Minhas Contribuições
