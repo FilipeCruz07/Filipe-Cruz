@@ -23,7 +23,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/cyberpunk-anime.gif" width="500">
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/cyberpunk-anime.gif" width="100">
 </p>
 
 
