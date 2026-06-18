@@ -23,4 +23,4 @@
 
 ## 🐍 Minhas Contribuições
 
-<img src="https://raw.githubusercontent.com/FilipeCruz/filipecruz07/output/github-snake.svg" alt="Snake animation" />****
+![Snake animation](https://github.com/FilipeCruz07/Filipe-Cruz/blob/output/github-contribution-grid-snake.svg)
